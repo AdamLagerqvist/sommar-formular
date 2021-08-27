@@ -1,0 +1,16 @@
+
+div{
+    transform: translate(-50%,-50%);
+    margin-left: 50%;
+}
+
+button{
+    padding: 2rem;
+    margin-left: 20%;
+}
+
+p{
+    font-size: 4rem;
+    margin-top: 15%;
+    text-align: center;
+}
